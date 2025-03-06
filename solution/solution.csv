@@ -1,0 +1,11 @@
+QueryName,Result,ElapsedTime
+HeizmannHoenickeLeikePodelski-ATVA2013-Fig5_termination_Query88.smt2,SAT,0.1407
+minepump_spec5_product38.cil_reach_Query202.smt2,SAT,14.4004
+cstrlen_diffterm_alloca_termination_Query404.smt2,SAT,12.0043
+bAnd2_reach_Query201.smt2,TIMEOUT,60.0821
+aws_hash_table_init_bounded_harness_reach_Query184.smt2,TIMEOUT,60.0407
+phases_2-2_termination_Query233.smt2,SAT,31.2779
+Problem14_label10_termination_Query5.smt2,SAT,3.884
+up_reach_Query33.smt2,UNSAT,0.1111
+trex02-1_reach_Query57.smt2,UNSAT,0.0584
+while_infinite_loop_3_reach_Query1047.smt2,SAT,0.0261
